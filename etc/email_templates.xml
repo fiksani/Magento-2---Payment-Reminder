@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="payment_reminder_template" label="Payment Reminder" file="payment_reminder.html" type="html" module="Fandi_PaymentReminder" area="frontend"/>
+</config>
